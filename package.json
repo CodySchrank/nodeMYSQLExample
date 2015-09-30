@@ -1,0 +1,9 @@
+{
+  "name": "express-node-mysql",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mysql": "*",
+    "express-myconnection": "*"
+  }
+}
